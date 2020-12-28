@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 ## 📄 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=weihao&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=weihao&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weihao&layout=compact&theme=dracula)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=weihao&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096)
+
+![trophies](https://github-profile-trophy.vercel.app/?username=weihao&theme=darkhub)
