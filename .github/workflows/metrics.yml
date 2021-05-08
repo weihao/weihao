@@ -18,12 +18,7 @@ jobs:
           plugin_lines: yes
           # Traffic
           plugin_traffic: yes
-          # Habits
-          plugin_habits: yes
-          plugin_habits_from: 500
           config_timezone: America/New_York
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           
           # Followup
           plugin_followup: yes
